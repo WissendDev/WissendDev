@@ -1,5 +1,5 @@
-l<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Wissend&fontSize=90" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Wissend&fontSize=90&fontColor=000000" />
 </p>
 
 # 👋 Привет, я Wissend!
@@ -18,44 +18,33 @@ l<p align="center">
 
 ---
 
-### 📁 Мои последние проекты
-<p align="left">
-  <a href="https://github.com/Wissend">
-    <img src="https://github-readme-recent-projects.vercel.app/Wissend" alt="Recent Projects" />
-  </a>
-</p>
-
----
-
 ### 📊 Статистика профиля
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wissend&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Достижения
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Wissend&theme=onedark&column=4" alt="trophy" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wissend&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Связь со мной
 <p align="left">
   <a href="https://t.me/ТВОЙ_НИК" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
   </a>
 </p>
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wissend&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</p>l
+</p>
