@@ -5,7 +5,7 @@
 # 👋 Привет, я Wissend!
 
 ### 🚀 Full-stack разработчик
-**Специализируюсь на создании веб-приложений и Telegram-ботов.**
+**Специализируюсь на создании качественных веб-приложений и функциональных Telegram-ботов.**
 
 ---
 
@@ -18,23 +18,21 @@
 
 ---
 
-### 📊 Статистика профиля
+### 📈 Активность на GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" alt="Wissend Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" alt="Wissend Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissend&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📫 Связь со мной
 <p align="left">
-  <a href="https://t.me/ТВОЙ_НИК" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
+  <a href="https://t.me/ТВОЙ_НИК_ТГ" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Wissend&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </p>
