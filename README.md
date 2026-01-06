@@ -20,10 +20,9 @@
 
 ### 📊 Статистика профиля
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" alt="Wissend Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" alt="Wissend Languages" />
 </p>
 
 ---
@@ -31,7 +30,7 @@
 ### 📫 Связь со мной
 <p align="left">
   <a href="https://t.me/ТВОЙ_НИК" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
   </a>
 </p>
 
