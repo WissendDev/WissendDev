@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Wissend&fontSize=90&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Wissend&fontSize=90&fontColor=ffffff" />
 </p>
 
 # 👋 Привет, я Wissend!
@@ -19,28 +19,19 @@
 ---
 
 ### 📊 Статистика профиля
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wissend&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wissend&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissend&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📫 Связь со мной
 <p align="left">
   <a href="https://t.me/ТВОЙ_НИК" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+    <img src="https://img.shields.io/badge/-Telegram-white?style=flat&logo=telegram&logoColor=26A5E4" height="35" />
   </a>
 </p>
 
